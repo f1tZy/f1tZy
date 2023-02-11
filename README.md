@@ -1,8 +1,8 @@
-# Hi there 👋🏻
+## Hi there 👋🏻
 
 My name is Aleksey. I'm software developer in JavaScript.
 
-# My skills
+## My skills
 
 > Languages
   <div>
