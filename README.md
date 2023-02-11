@@ -55,6 +55,7 @@ I'm software developer in JavaScript.
     <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
   </div>
 
+  <h3>Education</h3>
   <div>
     <img src="https://www.codewars.com/users/fitzy/badges/large" />
   </div>
