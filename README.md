@@ -12,7 +12,7 @@ My name is Aleksey. I'm software developer in JavaScript.
   </div>
 
 
-## 2. Frontend
+* ### Frontend
   <div>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -24,38 +24,38 @@ My name is Aleksey. I'm software developer in JavaScript.
   </div>
 
 
-## 3. Backend
+* ### Backend
   <div>
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
   </div>
 
-## 4. Databases
+* ### Databases
   <div>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </div>
   
-## 5. Module bundlers
+* ### Module bundlers
   <div>
     <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
     <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/>
   </div>
   
-## 6. Testing
+* ### Testing
   <div>
     <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
     <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
   </div>
   
-## 7. Servers
+* ### Servers
   <div>
     <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
     <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
   </div>
 
-## 8. Education
+* ### Education
   <div>
     <img src="https://www.codewars.com/users/fitzy/badges/large" />
   </div>
