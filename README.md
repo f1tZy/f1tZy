@@ -1,6 +1,6 @@
 ## Hi there 👋🏻
 
-### My name is Aleksey. I'm software developer in JavaScript.
+My name is Aleksey. I'm software developer in JavaScript.
 
 ## My skills
 
