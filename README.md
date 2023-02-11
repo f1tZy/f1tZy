@@ -1,6 +1,6 @@
 <h2>Hi there 👋🏻</h2>
 
-I'm software developer in JavaScript.
+My name is Aleksey. I'm software developer in JavaScript.
 
 <h2>My skills</h2>
 
