@@ -3,7 +3,6 @@
 I'm software developer in JavaScript.
 
 <h2>My skills</h2>
-<img src=""/>
 
 <h3>Languages</h3>
   <div>
@@ -57,6 +56,6 @@ I'm software developer in JavaScript.
   </div>
 
   <div>
-    ![Codewars](https://www.codewars.com/users/fitzy/badges/large)
+    <img src="https://www.codewars.com/users/fitzy/badges/large" />
   </div>
 
